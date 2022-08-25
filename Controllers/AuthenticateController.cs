@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
-using WebApiWithRefreshToken.Auth;
+using WebApiWithRefreshToken.Authentication;
 
 namespace WebApiWithRefreshToken.Controllers
 {

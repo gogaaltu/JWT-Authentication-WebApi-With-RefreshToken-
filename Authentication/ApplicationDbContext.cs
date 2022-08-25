@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace WebApiWithRefreshToken.Auth
+namespace WebApiWithRefreshToken.Authentication
 {
     public class ApplicationDbContext :  IdentityDbContext<ApplicationUser>
     {

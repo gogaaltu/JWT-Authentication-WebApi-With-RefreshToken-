@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WebApiWithRefreshToken.Auth
+namespace WebApiWithRefreshToken.Authentication
 {
     public static class UserRoles
     {
