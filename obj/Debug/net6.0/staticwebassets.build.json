@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nk8MsMAFPl2ixXPT0xmT7FBlnQAREZjqJ/sAeO8NYE0=",
+  "Source": "WebApiWithRefreshToken",
+  "BasePath": "_content/WebApiWithRefreshToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
